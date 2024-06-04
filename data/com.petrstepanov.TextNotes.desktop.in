@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=textnotes
+Exec=textnotes
+Icon=com.petrstepanov.TextNotes
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

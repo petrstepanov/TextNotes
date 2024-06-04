@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="textnotes">
+	<schema id="com.petrstepanov.TextNotes" path="/com/petrstepanov/TextNotes/">
+	</schema>
+</schemalist>

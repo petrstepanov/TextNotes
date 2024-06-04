@@ -1,0 +1,6 @@
+data/com.petrstepanov.TextNotes.desktop.in
+data/com.petrstepanov.TextNotes.metainfo.xml.in
+data/com.petrstepanov.TextNotes.gschema.xml
+src/main.c
+src/textnotes-window.c
+src/textnotes-window.ui
